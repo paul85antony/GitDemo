@@ -44,28 +44,28 @@ formatter.match({
   "location": "UIStepDefinition.the_user_is_in_expedia_home_page()"
 });
 formatter.result({
-  "duration": 6695153443,
+  "duration": 5670506958,
   "status": "passed"
 });
 formatter.match({
   "location": "UIStepDefinition.user_select_the_login_button()"
 });
 formatter.result({
-  "duration": 584333355,
+  "duration": 107705728,
   "status": "passed"
 });
 formatter.match({
   "location": "UIStepDefinition.user_provide_the_username_and_password()"
 });
 formatter.result({
-  "duration": 53726,
+  "duration": 91097,
   "status": "passed"
 });
 formatter.match({
   "location": "UIStepDefinition.user_should_be_logged_in_to_the_site()"
 });
 formatter.result({
-  "duration": 42696,
+  "duration": 47625,
   "status": "passed"
 });
 });

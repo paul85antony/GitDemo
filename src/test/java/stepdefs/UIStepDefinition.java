@@ -34,6 +34,8 @@ public class UIStepDefinition {
 
         navigationService.openHomePage();
         System.out.println("Inside Expedia Home Page");
+        System.out.println("This is an change for git study");
+
 
         // Write code here that turns the phrase above into concrete actions
 
